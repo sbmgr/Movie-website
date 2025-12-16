@@ -18,7 +18,8 @@ function App() {
     searched: false,
   });
 
-  const apiurl = "http://www.omdbapi.com/?apikey=dfe6d885";
+  //add API key below
+  const apiurl = "";
 
   // Search handler
   const search = async (e) => {
